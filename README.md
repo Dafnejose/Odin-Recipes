@@ -1,1 +1,1 @@
-This project will make better at web development
+This project will make me better at web development
